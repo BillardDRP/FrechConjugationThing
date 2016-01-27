@@ -1,0 +1,104 @@
+
+#MainTitle{
+	font-family: 'Fredoka One', cursive;
+}
+
+
+/* That header above the table */
+#TableTitle{
+		font-family: 'Fredoka One', cursive;
+		margin-left:;
+		margin-right:;
+		margin-top:40px;
+		margin-bottom:10px;
+	}
+
+/* By... */
+#credits{
+	font-family: 'Fredoka One', cursive;
+}
+
+/*Margin/padding for table of translations*/
+#table1{
+	margin-top:40px;
+	margin-bottom:;
+}
+
+/* these are table headings (First row) */
+#Avoirheader{
+	color:green;
+}
+
+#Etreheader{
+	color:blue;
+}
+
+#Allerheader{
+	color:red;
+}
+
+#Faireheader{
+	color:purple;
+}
+
+/* Body (normal cells) of table */
+
+#Avoirbody{
+	background-color:green;
+}
+
+#Etrebody{
+	background-color:blue;
+}
+
+#Allerbody{
+	background-color:red;
+}
+
+#Fairebody{
+	background-color:purple;
+}
+
+/*What does it mean?*/
+
+#chapterbreak{
+	font-family: 'Fredoka One', cursive;
+	margin-top:200px;
+}
+
+#explainit{
+	margin-top:125px;
+	margin-bottom:;
+	margin-right:;
+	margin-left:;
+}
+
+#whatislife{
+	font-family: 'Fredoka One', cursive;
+}
+
+#Avoirex{
+	font-family: 'Fredoka One', cursive;
+	color:green;
+}
+
+#Etreex{
+	font-family: 'Fredoka One', cursive;
+	color:blue;
+}
+
+#Allerex{
+	font-family: 'Fredoka One', cursive;
+	color:red;
+}
+
+#Faireex{
+	font-family: 'Fredoka One', cursive;
+	color:purple;
+}
+/* Quiz button */
+
+#quizbutton{
+	margin:35px;
+}
+
