@@ -2,7 +2,7 @@
 ## Note: VERY early in development
 ### By @808dkaneohe (www.steamcommunity.com/808dkaneohe)
 ## How to use:
-When this website is finished I will host it and put a link here but in the meantime to use it, Download the repository here: (put the link here; idiot) and open the file called index.html in safari chrome or firefox (not tested with opera) if there is a bug
+When this website is finished I will host it and put a link here but in the meantime to use it, Download the repository here: (https://github.com/BillardDRP/FrechConjugationThing/archive/master.zip) and open the file called index.html in safari chrome or firefox (not tested with opera) if there is a bug
 
 Yay :D
 
