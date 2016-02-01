@@ -1,12 +1,15 @@
 
 #MainTitle{
-	font-family: 'Fredoka One', cursive;
-}
 
+}
+/*Setting general font*/
+#fontSet{
+		font-family: 'Fredoka One', cursive;
+}
 
 /* That header above the table */
 #TableTitle{
-		font-family: 'Fredoka One', cursive;
+
 		margin-left:;
 		margin-right:;
 		margin-top:40px;
@@ -15,7 +18,7 @@
 
 /* By... */
 #credits{
-	font-family: 'Fredoka One', cursive;
+
 }
 
 /*Margin/padding for table of translations*/
@@ -62,7 +65,7 @@
 /*What does it mean?*/
 
 #chapterbreak{
-	font-family: 'Fredoka One', cursive;
+
 	margin-top:200px;
 }
 
@@ -74,26 +77,25 @@
 }
 
 #whatislife{
-	font-family: 'Fredoka One', cursive;
+
 }
 
 #Avoirex{
-	font-family: 'Fredoka One', cursive;
 	color:green;
 }
 
 #Etreex{
-	font-family: 'Fredoka One', cursive;
+
 	color:blue;
 }
 
 #Allerex{
-	font-family: 'Fredoka One', cursive;
+
 	color:red;
 }
 
 #Faireex{
-	font-family: 'Fredoka One', cursive;
+
 	color:purple;
 }
 /* Quiz button */
