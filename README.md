@@ -1,4 +1,5 @@
 # French Conjugation website learner thing
+# Nick: pls dont merge ur commits before i even know pls thx
 ## Note: VERY early in development
 ### By @808dkaneohe (www.steamcommunity.com/808dkaneohe)
 ## How to use:
@@ -18,7 +19,7 @@ Yay :D
 
 ## Rules:
 
-Do not use an issue for suggestions, insted fork the repository and make a file called something like suggestion.md and pull request it to me and I will concider it.
+Do not use an issue for suggestions, instead fork the repository and make a file called something like suggestion.md and pull request it to me and I will concider it.
 
 Do not abuse the wiki/issues.
 

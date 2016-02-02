@@ -4,7 +4,8 @@
 }
 /*Setting general font*/
 #fontSet{
-		font-family: 'Fredoka One', cursive;
+		/*font-family: 'Fredoka One', cursive;*/
+		font-family: 'Short Stack', cursive;
 }
 
 /* That header above the table */
