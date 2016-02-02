@@ -28,23 +28,6 @@
 	margin-bottom:;
 }
 
-/* these are table headings (First row) */
-#Avoirheader{
-	color:green;
-}
-
-#Etreheader{
-	color:blue;
-}
-
-#Allerheader{
-	color:red;
-}
-
-#Faireheader{
-	color:purple;
-}
-
 /* Body (normal cells) of table */
 
 #Avoirbody{
