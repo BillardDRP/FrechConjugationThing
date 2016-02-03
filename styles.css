@@ -1,21 +1,24 @@
 
+h1, h2, h3, h4, h5, h6, div, table, td, tr{
+	text-align:center;
+}
+
 #MainTitle{
 
 }
 /*Setting general font*/
 #fontSet{
-		/*font-family: 'Fredoka One', cursive;*/
-		font-family: 'Short Stack', cursive;
+	/*font-family: 'Fredoka One', cursive;*/
+	font-family: 'Short Stack', cursive;
 }
 
 /* That header above the table */
 #TableTitle{
-
-		margin-left:;
-		margin-right:;
-		margin-top:40px;
-		margin-bottom:10px;
-	}
+	margin-left:;
+	margin-right:;
+	margin-top:40px;
+	margin-bottom:10px;
+}
 
 /* By... */
 #credits{
@@ -26,23 +29,6 @@
 #table1{
 	margin-top:40px;
 	margin-bottom:;
-}
-
-/* these are table headings (First row) */
-#Avoirheader{
-	color:green;
-}
-
-#Etreheader{
-	color:blue;
-}
-
-#Allerheader{
-	color:red;
-}
-
-#Faireheader{
-	color:purple;
 }
 
 /* Body (normal cells) of table */
